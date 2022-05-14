@@ -16,5 +16,5 @@ All the motors are diver by the same PID output to have the same speed output.
 I used only one motor with Encoder to calculate the speed ***ALL MOTORS ARE IDENTICAL***.
 I used a TIMER in encoder mode to capture the speed on the motor and feed it to the PID Controller.
 
-#Sensor:
+# Sensor:
 unfortunatly I couldn't Simulate a sensor so I had to make a pin (**PD2**) as an iput simulating when an obstacle is detected.
