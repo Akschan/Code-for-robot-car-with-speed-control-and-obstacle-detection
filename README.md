@@ -5,10 +5,10 @@
 
 # LCD:
 lcd is in 4 bit mode as follows:
-**Register Selector pin** = PA2
-**Read/Write** to Ground = Always Write
-**Enable pin** = PA4
-**Data Pins** = PA5,PA6,PA7,PA8
+**Register Selector pin** = PA2.
+**Read/Write** to Ground = Always Write.
+**Enable pin** = PA4.
+**Data Pins** = PA5,PA6,PA7,PA8.
 
 # Motor Driver:
 each 2 motors has 1 pair of direction Pins so when an obstacle is detected I can turn the Robot in a Direction away from it.
