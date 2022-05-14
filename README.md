@@ -18,3 +18,9 @@ lcd is in 4 bit mode as follows:
 
 # Sensor:
 - unfortunatly I couldn't Simulate a sensor so I had to make a pin (**PD2**) as an iput simulating when an obstacle is detected.
+- 
+# Video Test
+
+
+https://user-images.githubusercontent.com/63216504/168444690-4ff9d672-a21d-4146-9671-b1ced20520d5.mp4
+
