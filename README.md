@@ -17,7 +17,7 @@ lcd is in 4 bit mode as follows:
 - I used a TIMER in encoder mode to capture the speed on the motor and feed it to the PID Controller.
 
 # Sensor:
-- unfortunatly I couldn't Simulate a sensor so I had to make a pin (**PD2**) as an iput simulating when an obstacle is detected.
+- unfortunatly I couldn't Simulate a sensor so I had to make a pin (**PD2**) as an input simulating when an obstacle is detected.
 # Video Test:
 
 
