@@ -1,5 +1,5 @@
 # Code for robot car with speed control and obstacle detection
-## Tested using Proteus 8 (****STM32F401VE***):
+## Tested using Proteus 8 (***STM32F401VE***):
 ### Circuit designed:
 ![Circuit](https://github.com/Akschan/Programme-pour-une-voiture-aver-detection-d-obstacle/blob/main/images/Circuit_design.png)
 
